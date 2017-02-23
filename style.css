@@ -17,7 +17,7 @@ img, fieldset {
 
 /* set html5 elements to block */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
-    display: block;
+   /* display: block;*/
 }
 
 /* set img max-width */
@@ -35,13 +35,13 @@ img {
 GENERAL STYLING
 *****************************************************************************/
 body {
-	font: 0.78em Arial, "Helvetica Neue", Helvetica, sans-serif;
-	color: #000;
+	font: 0.5em Arial, "Helvetica Neue", Helvetica, sans-serif;
+	color: #164d25;
 	background: #e9e9e9;
 	
 }
 
-#sidebar a{text-decoration: underline;}
+/*#sidebar a{text-decoration: underline;}*/
 
 #sidebar a:hover{color: black;}
 #body{
