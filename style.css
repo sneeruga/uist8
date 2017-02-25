@@ -313,11 +313,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ec445', end
 -webkit-border-radius: 4px; -moz-border-radius: 4px;
 padding: 22px 20px 10px;
 }
-.home-news h2 {color: #2b86b2; margin-bottom: 0.8em;}
+.home-news h2 {color: skyblue; margin-bottom: 0.8em;}
 .home-news .item {margin-bottom:24px;}
 .home-news .item h3 {margin-bottom: 0.4em; color: #575757; font-size: 13px;}
 .home-news .item p {line-height: 1.3em; color: #575757; font-size: 12px;}
-.home-news .item p a {background: none !important; color: #2b86b2 !important; display:block !important; padding-top: 3px;}
+.home-news .item p a {background: none !important; color: skyblue!important; display:block !important; padding-top: 3px;}
 
 /****************************************************************************
 GRID
