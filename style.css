@@ -45,12 +45,12 @@ body {
 
 #sidebar a:hover{color: black;}
 #body{
-	background:#ffffff;
+	background:#777777;
 	min-height: 800px;
 
 }
 a {
-	color: #2b86b2;
+	color: #1b3c4d;
 	text-decoration: none;
 	outline: none;
 }
@@ -87,7 +87,7 @@ h1 {
 	line-height: 0.65em;
 	margin: 20px 0 .4em;
 	font-size: 22px;
-	color: #2b86b2;
+	color: #00f500;
   font-weight: normal;
   margin: 0 0 0.2em;
 }
@@ -95,7 +95,7 @@ h1 {
 h2 {
 	font-weight: 600;
 	font-size: 17px;
-	color: #0391b6;
+	color: #c7071d;
 	margin: 0 0 0.2em;
 }
 
@@ -258,7 +258,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ec445', end
 /* sidebar */
 #sidebar {
 	width: 189px;
-	border-right: #e5e5e5 solid 1px;
+	border-right: #27ff00 solid 1px;
 	padding: 34px 30px 0;
 	height: 100%;
 	position: absolute;
@@ -295,8 +295,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ec445', end
 	padding: 20px 30px;
 	left:0px;
 	top:0px;
-	background: #404040;
-	background: #687378;
+	background: #00ff00;
+	background: #1dff00;
 	color: white;
 }
 .signup #widget-text {line-height: 1.4em; margin-bottom: 0.5em;}
@@ -309,7 +309,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ec445', end
 .home-news {float: right; width: 210px; margin-right: -10px;}
 
 .home-news {
- background: rgba(43,142,175,0.1); border-radius: 4px;
+ background: rgba(10, 255, 0, 0.1); border-radius: 4px;
 -webkit-border-radius: 4px; -moz-border-radius: 4px;
 padding: 22px 20px 10px;
 }
@@ -953,45 +953,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ec445', end
 	border-top: solid 1px #ccc;
 }
 
-#uwlink {
-	float:left;
-	width: 200px;
-	height:50px;
-	background: url('images/uw.png') no-repeat left center ;
-}
 
 
-#dublink {
-	float:right;
-	width: 40px;
-	height:50px;
-	background: url('images/dub.png') no-repeat right center ;
-}
-
-/* back to top */
-.back-top {
-	clear: both;
-	opacity: 0.3;
-	margin-top: -3px;
-	position: absolute;
-	left:50%;
-	top:14px;
-	margin-left"-15px;";
-}
-.back-top a {
-	background: #000 url(images/arrow-up.png) no-repeat center center;
-	display: block;
-	width: 30px;
-	height: 30px;
-	margin: 0 10px 10px 0;
-	text-indent: -900em;
-	-webkit-border-radius: 10em;
-	-moz-border-radius: 10em;
-	border-radius: 10em;	
-}
-.back-top a:hover {
-	background-color: #333;
-}
 
 /* footer nav */
 .footer-nav {
