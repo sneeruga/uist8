@@ -531,7 +531,7 @@ SEARCH FORM
 /* 
 MAIN NAVIGATION
 ================================================ */
-#logobox {
+#box {
 	width: 250px;
 	height: 210px;
 	top: 0px;
@@ -541,7 +541,7 @@ MAIN NAVIGATION
 	background-size: cover;
 }
 
-#logobox a{
+#box a{
 	float: left;
 	height: 50%;
 	width: 50%;
@@ -633,7 +633,7 @@ cursor: pointer;
 #main-nav ul.sub-menu {z-index: 1000;}
 /* sub-levels link :hover */
 #main-nav ul a:hover, #main-nav .current_page_item ul a:hover, #main-nav ul .current_page_item a:hover, #main-nav .current-menu-item ul a:hover, #main-nav ul .current-menu-item a:hover, #main-nav li:hover > ul a:hover {
-	background: #F3F3F3;
+	background: #eee;
 	color: #000;
 	color: black;
 }
