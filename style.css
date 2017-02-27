@@ -531,7 +531,7 @@ SEARCH FORM
 /* 
 MAIN NAVIGATION
 ================================================ */
-#box {
+#logobox {
 	width: 250px;
 	height: 210px;
 	top: 0px;
@@ -541,7 +541,7 @@ MAIN NAVIGATION
 	background-size: cover;
 }
 
-#box a{
+#logobox a{
 	float: left;
 	height: 50%;
 	width: 50%;
@@ -588,7 +588,7 @@ cursor: pointer;
 	font-weight: normal;
 	text-transform: uppercase; 
 	text-decoration: none;
-  color: white;
+  color: skyblue;
 }
 
 /* main level link :hover */
